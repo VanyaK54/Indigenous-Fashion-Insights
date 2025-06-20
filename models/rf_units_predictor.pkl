@@ -1,0 +1,6 @@
+```bash
+
+models/rf_units_predictor.pkl
+
+```
+joblib.dump(model, 'models/rf_units_predictor.pkl')
