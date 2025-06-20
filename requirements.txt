@@ -1,0 +1,27 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+
+# Image Processing & Deep Learning
+tensorflow
+Pillow
+
+# Streamlit App
+streamlit
+
+# Excel & File Handling
+openpyxl
+
+# Azure Blob Storage
+azure-storage-blob
+
+# Optional (only if you use Grad-CAM)
+opencv-python
+
+# Jupyter Support (for .ipynb files)
+notebook
