@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+venv/
+.venv/
+
+# Model artifacts
+models/*.pkl
+models/*.h5
+
+# Output data
+outputs/predictions.csv
+outputs/plots/*.png
+
+# Excel exports (optional)
+*.xlsx
+*.xls
+
+# Power BI and Tableau
+*.pbix
+*.twbx
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+.settings/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# DATA files (ignore heavy or private raw + processed data)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
